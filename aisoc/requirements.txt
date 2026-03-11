@@ -1,0 +1,17 @@
+Django>=5.0
+djangorestframework>=3.14
+channels>=4.0
+daphne>=4.0
+django-cors-headers>=4.3
+sqlparse>=0.4
+pyyaml>=6.0
+openai>=1.0
+httpx>=0.25
+python-multipart>=0.0.6
+markdown>=3.5
+jieba>=0.42
+numpy>=1.24
+pydantic>=2.0
+pydantic-settings>=2.0
+dingtalk-stream>=0.9
+lark-sdk>=0.2
